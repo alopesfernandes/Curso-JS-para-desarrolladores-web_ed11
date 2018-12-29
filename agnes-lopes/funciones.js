@@ -54,6 +54,46 @@ console.log(numsPares);
 
 // numeros pares
 
+// Example from free code camp
+function ourReusableFunction() {
+  console.log("Heyya, World");
+}
+
+ourReusableFunction();
+
+// Only change code below this line
+function reusableFunction() {
+    console.log("Hi World");
+}
+
+reusableFunction();
+
+// Example from free code camp
+function ourFunctionWithArgs(a, b) {
+  console.log(a - b);
+}
+ourFunctionWithArgs(10, 5); // Outputs 5
+
+// Only change code below this line.
+
+function functionWithArgs(a, b) {
+  console.log(a + b);
+}
+functionWithArgs(1, 2);
+
+function functionWithArgs(c, d) {
+  console.log(c + d);
+}
+functionWithArgs(7, 9);
+
+// example Meg
+function reusableFunction() {
+  console.log("Hi Meg");
+}
+
+reusableFunction();
+
+
 
 
 
