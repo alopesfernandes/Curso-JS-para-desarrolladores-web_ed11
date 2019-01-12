@@ -3,4 +3,4 @@ const tipical = {
   planetName: 'Naboo'
 }
 
-const apiUrl = 'https://swapi.co/api/planets?planetId'
+const apiUrl = 'https://swapi.co/api/planets?planetId' //change the url
